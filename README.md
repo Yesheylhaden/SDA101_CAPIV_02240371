@@ -7,11 +7,19 @@ This is a personal portfolio website created to showcase my background, skills, 
 
 ## Table of Contents
 
+- [Installation](#installation)
 - [Features](#features)
+- [Usage](#usage)
 - [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-- [Contact](#contact)
-- [License](#license)
+- [Acknowledgment](#ackmowledgment)
+
+## Installation
+# for github
+1. went gitHub page
+2. git remote set-url https://github.com/choden12/SDA101_CAPIV_02240355.git
+3. git push --set-upstream origin main
+4. git status
+5. git push
 
 ## Features
 
@@ -36,10 +44,21 @@ Each activity is presented with a title and detailed description, outlining my e
 **Visual Elements**: 
 Incorporates images to visually represent my educational experiences.
 
+## Usage
+To run the project the user needs to open the folder in Visual Studio Code (VSCode).Once 
+inside VSCode they should right-click on the assg.html file and select Open with Live Server.
+This will automatically launch the project in the browser allowing them to view the code.
+
 ## Technologies Used
 
 - HTML5
 - CSS3
 - Font Awesome (for icons)
 - JavaScript (for back navigation functionality)
+
+## Acknowledgment
+
+I would like to express my gratitude to our SDA tutor for this project opportunity, which greatly enhanced my skills in converting design to code by translating my Figma profile into responsive HTML and CSS. I also thank my classmates and senior colleagues for their valuable support, guidance, and insights throughout this learning experience.
+
+
 
